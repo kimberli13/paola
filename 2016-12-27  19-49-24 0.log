@@ -1,0 +1,198 @@
+2016-12-27 19:49:41:938: Application Version: 2.2.3.0 built Jan 1, 2010 3:00 am UTC
+2016-12-27 19:49:41:938: Microsoft Windows 7 Ultimate Service Pack 1
+2016-12-27 19:49:41:938: 6.01 build 7601 Service Pack 1
+2016-12-27 19:49:41:938: Username: pablo
+2016-12-27 19:49:41:938: =============================================================================
+2016-12-27 19:49:41:938: Installation ID: cfb1a8e7-00c8-4dee-b07a-832a15d00d32
+2016-12-27 19:49:45:775: Monitoring driver installed
+2016-12-27 19:49:48:693: DumpPath: C:\Users\pablo\AppData\Local\Temp\<AppName>-1470776260.dmp
+2016-12-27 19:49:48:693: Looking for in-progress session...
+2016-12-27 19:49:48:693: MachineID: 769CE0D0-851A-400C-89B5-75C11341717D
+2016-12-27 19:49:48:693: InstallationID: CFB1A8E7-00C8-4DEE-B07A-832A15D00D32
+2016-12-27 19:49:48:693: Initializing user interface...
+2016-12-27 19:49:57:101: Checking registration state...
+2016-12-27 19:49:57:257: This version of AVG Driver Updater is unregistered.
+2016-12-27 19:50:02:608: Comparing driver data from last session...
+2016-12-27 19:50:04:043: Creating tray icon...
+2016-12-27 19:50:04:152: Survey check...
+2016-12-27 19:50:04:152: Not registered?
+2016-12-27 19:50:04:230: AppStartFromBootCount: 4
+2016-12-27 19:50:11:344: OnProcessEvent...missing track
+2016-12-27 19:50:15:026: Failed to get pc brand info: CInternetException thrown: No se pudo resolver el nombre de servidor ni su dirección
+
+2016-12-27 19:50:15:026: Failed to get server version: CInternetException thrown: No se pudo resolver el nombre de servidor ni su dirección
+
+2016-12-27 19:50:15:026: strVersionData: 
+2016-12-27 19:50:15:650: OnProcessEvent...missing track
+2016-12-27 19:50:20:829: OnProcessEvent...missing track
+2016-12-27 19:50:20:829: OnProcessEvent...missing track
+2016-12-27 19:50:20:860: OnProcessEvent...missing track
+2016-12-27 19:50:21:890: OnProcessEvent...missing track
+2016-12-27 19:50:30:126: OnProcessEvent...missing track
+2016-12-27 19:50:32:186: OnProcessEvent...missing track
+2016-12-27 19:50:33:231: OnProcessEvent...missing track
+2016-12-27 19:50:42:372: OnProcessEvent...missing track
+2016-12-27 20:05:44:651: OnProcessEvent...missing track
+2016-12-27 20:05:44:651: OnProcessEvent...missing track
+2016-12-27 20:05:44:651: OnProcessEvent...missing track
+2016-12-27 20:05:49:081: OnProcessEvent...missing track
+2016-12-27 20:05:49:081: OnProcessEvent...missing track
+2016-12-27 20:05:50:173: OnProcessEvent...missing track
+2016-12-27 20:05:51:140: OnProcessEvent...missing track
+2016-12-27 20:05:51:140: OnProcessEvent...missing track
+2016-12-27 20:05:54:229: OnProcessEvent...missing track
+2016-12-27 20:05:54:292: OnProcessEvent...missing track
+2016-12-27 20:05:54:292: OnProcessEvent...missing track
+2016-12-27 20:05:55:274: New device: Root#MS_NDISWANBH#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANBH
+2016-12-27 20:05:55:274: NOT a USB device
+2016-12-27 20:05:55:321: OnProcessEvent...missing track
+2016-12-27 20:05:55:321: OnProcessEvent...missing track
+2016-12-27 20:05:58:192: New device: Root#MS_NDISWANBH#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:192: NOT a USB device
+2016-12-27 20:05:58:192: OnProcessEvent...missing track
+2016-12-27 20:05:58:192: OnProcessEvent...missing track
+2016-12-27 20:05:58:192: OnProcessEvent...missing track
+2016-12-27 20:05:58:207: New device: Root#MS_NDISWANIPV6#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANIPV6
+2016-12-27 20:05:58:207: NOT a USB device
+2016-12-27 20:05:58:207: New device: Root#MS_NDISWANIPV6#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:207: NOT a USB device
+2016-12-27 20:05:58:207: New device: Root#MS_NDISWANIP#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\NDISWANIP
+2016-12-27 20:05:58:207: NOT a USB device
+2016-12-27 20:05:58:207: New device: Root#MS_NDISWANIP#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:207: NOT a USB device
+2016-12-27 20:05:58:207: New device: ROOT#*ISATAP#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{3D3A18BC-15A4-444F-B4DD-009266AB3A5F}
+2016-12-27 20:05:58:394: NOT a USB device
+2016-12-27 20:05:58:613: New device: ROOT#*ISATAP#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:613: NOT a USB device
+2016-12-27 20:05:58:613: New device: Root#MS_PPPOEMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{8E301A52-AFFA-4F49-B9CA-C79096A1A056}
+2016-12-27 20:05:58:613: NOT a USB device
+2016-12-27 20:05:58:613: New device: Root#MS_PPPOEMINIPORT#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:613: NOT a USB device
+2016-12-27 20:05:58:628: New device: Root#MS_AGILEVPNMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{29898C9D-B0A4-4FEF-BDB6-57A562022CEE}
+2016-12-27 20:05:58:628: NOT a USB device
+2016-12-27 20:05:58:628: New device: Root#MS_AGILEVPNMINIPORT#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:628: NOT a USB device
+2016-12-27 20:05:58:628: New device: Root#MS_PPTPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{DF4A9D2C-8742-4EB1-8703-D395C4183F33}
+2016-12-27 20:05:58:628: NOT a USB device
+2016-12-27 20:05:58:628: New device: Root#MS_PPTPMINIPORT#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:628: NOT a USB device
+2016-12-27 20:05:58:644: New device: Root#MS_SSTPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{71F897D7-EB7C-4D8D-89DB-AC80D9DD2270}
+2016-12-27 20:05:58:644: NOT a USB device
+2016-12-27 20:05:58:644: New device: Root#MS_SSTPMINIPORT#0000#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:05:58:644: NOT a USB device
+2016-12-27 20:05:58:644: New device: Root#MS_L2TPMINIPORT#0000#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{E43D242B-9EAB-4626-A952-46649FBB939A}
+2016-12-27 20:05:58:644: NOT a USB device
+2016-12-27 20:05:58:644: New device: USB\VID_148F&PID_3070
+2016-12-27 20:05:59:174: New device: {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp\7&1704cc16
+2016-12-27 20:05:59:174: NOT a USB device
+2016-12-27 20:05:59:440: New device: {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp\7&1704cc16
+2016-12-27 20:05:59:440: NOT a USB device
+2016-12-27 20:06:06:246: Quick scan collect...
+2016-12-27 20:06:10:630: OnProcessEvent...missing track
+2016-12-27 20:06:10:630: OnProcessEvent...missing track
+2016-12-27 20:06:10:630: OnProcessEvent...missing track
+2016-12-27 20:06:10:677: Quick scan collected.
+2016-12-27 20:06:10:677: Quick scan Analyze...
+2016-12-27 20:06:10:677: Sending update request: GetDriverUpdates
+2016-12-27 20:06:13:272: OnProcessEvent...missing track
+2016-12-27 20:06:14:364: OnProcessEvent...missing track
+2016-12-27 20:06:21:228: OnProcessEvent...missing track
+2016-12-27 20:06:21:353: New device: ROOT#*ISATAP#0001#{cac88484-7515-4c03-82e6-71a87abac361}
+2016-12-27 20:06:21:353: NOT a USB device
+2016-12-27 20:06:21:353: New device: ROOT#*ISATAP#0001#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{4FAD9214-EDC9-4872-ADC3-3C3F96A56B8C}
+2016-12-27 20:06:21:353: NOT a USB device
+2016-12-27 20:06:26:408: OnProcessEvent...missing track
+2016-12-27 20:06:26:408: OnProcessEvent...missing track
+2016-12-27 20:06:35:128: Request failed: CInternetException: No se pudo resolver el nombre de servidor ni su dirección
+
+2016-12-27 20:06:35:253: Quick scan...completed
+2016-12-27 20:06:35:783: Quick scan found 0 updates
+2016-12-27 20:07:09:666: OnProcessEvent...missing track
+2016-12-27 20:07:09:666: OnProcessEvent...missing track
+2016-12-27 20:07:11:273: OnProcessEvent...missing track
+2016-12-27 20:07:16:515: OnProcessEvent...missing track
+2016-12-27 20:07:36:592: OnProcessEvent...missing track
+2016-12-27 20:07:46:108: OnProcessEvent...missing track
+2016-12-27 20:08:06:435: OnProcessEvent...missing track
+2016-12-27 20:08:20:428: OnProcessEvent...missing track
+2016-12-27 20:08:20:428: OnProcessEvent...missing track
+2016-12-27 20:08:31:021: OnProcessEvent...missing track
+2016-12-27 20:08:31:036: OnProcessEvent...missing track
+2016-12-27 20:09:37:555: OnProcessEvent...missing track
+2016-12-27 20:09:37:633: OnProcessEvent...missing track
+2016-12-27 20:11:12:777: OnProcessEvent...missing track
+2016-12-27 20:12:46:377: OnProcessEvent...missing track
+2016-12-27 20:14:50:959: OnProcessEvent...missing track
+2016-12-27 20:15:55:543: OnProcessEvent...missing track
+2016-12-27 20:15:55:543: OnProcessEvent...missing track
+2016-12-27 20:15:55:543: OnProcessEvent...missing track
+2016-12-27 20:15:56:557: OnProcessEvent...missing track
+2016-12-27 20:16:52:655: OnProcessEvent...missing track
+2016-12-27 20:16:54:886: OnProcessEvent...missing track
+2016-12-27 20:17:17:802: OnProcessEvent...missing track
+2016-12-27 20:17:26:164: OnProcessEvent...missing track
+2016-12-27 20:18:03:573: OnProcessEvent...missing track
+2016-12-27 20:18:03:573: OnProcessEvent...missing track
+2016-12-27 20:18:46:364: OnProcessEvent...missing track
+2016-12-27 20:21:34:189: OnProcessEvent...missing track
+2016-12-27 20:21:40:179: OnProcessEvent...missing track
+2016-12-27 20:22:26:854: OnProcessEvent...missing track
+2016-12-27 20:25:27:752: OnProcessEvent...missing track
+2016-12-27 20:25:30:904: OnProcessEvent...missing track
+2016-12-27 20:25:34:086: OnProcessEvent...missing track
+2016-12-27 20:25:41:621: OnProcessEvent...missing track
+2016-12-27 20:25:58:250: OnProcessEvent...missing track
+2016-12-27 20:26:03:008: OnProcessEvent...missing track
+2016-12-27 20:26:05:536: OnProcessEvent...missing track
+2016-12-27 20:26:38:776: OnProcessEvent...missing track
+2016-12-27 20:26:39:799: OnProcessEvent...missing track
+2016-12-27 20:26:44:619: OnProcessEvent...missing track
+2016-12-27 20:26:44:619: OnProcessEvent...missing track
+2016-12-27 20:26:46:257: OnProcessEvent...missing track
+2016-12-27 20:26:50:641: OnProcessEvent...missing track
+2016-12-27 20:26:50:734: OnProcessEvent...missing track
+2016-12-27 20:26:53:807: OnProcessEvent...missing track
+2016-12-27 20:26:58:129: OnProcessEvent...missing track
+2016-12-27 20:26:58:129: OnProcessEvent...missing track
+2016-12-27 20:26:59:517: OnProcessEvent...missing track
+2016-12-27 20:26:59:517: OnProcessEvent...missing track
+2016-12-27 20:27:10:069: OnProcessEvent...missing track
+2016-12-27 20:27:10:069: OnProcessEvent...missing track
+2016-12-27 20:27:10:069: OnProcessEvent...missing track
+2016-12-27 20:27:27:510: OnProcessEvent...missing track
+2016-12-27 20:27:28:571: OnProcessEvent...missing track
+2016-12-27 20:27:32:970: OnProcessEvent...missing track
+2016-12-27 20:27:48:445: OnProcessEvent...missing track
+2016-12-27 20:27:48:710: OnProcessEvent...missing track
+2016-12-27 20:28:02:946: OnProcessEvent...missing track
+2016-12-27 20:28:07:064: OnProcessEvent...missing track
+2016-12-27 20:28:07:298: OnProcessEvent...missing track
+2016-12-27 20:28:08:094: OnProcessEvent...missing track
+2016-12-27 20:28:08:094: OnProcessEvent...missing track
+2016-12-27 20:28:08:094: OnProcessEvent...missing track
+2016-12-27 20:28:08:359: OnProcessEvent...missing track
+2016-12-27 20:28:09:123: OnProcessEvent...missing track
+2016-12-27 20:28:10:169: OnProcessEvent...missing track
+2016-12-27 20:28:11:229: OnProcessEvent...missing track
+2016-12-27 20:28:12:509: OnProcessEvent...missing track
+2016-12-27 20:28:12:509: OnProcessEvent...missing track
+2016-12-27 20:28:13:304: OnProcessEvent...missing track
+2016-12-27 20:28:13:304: OnProcessEvent...missing track
+2016-12-27 20:28:15:410: OnProcessEvent...missing track
+2016-12-27 20:28:20:262: OnProcessEvent...missing track
+2016-12-27 20:29:07:442: OnProcessEvent...missing track
+2016-12-27 20:29:07:520: OnProcessEvent...missing track
+2016-12-27 20:29:23:994: OnProcessEvent...missing track
+2016-12-27 20:29:23:994: OnProcessEvent...missing track
+2016-12-27 20:29:25:912: OnProcessEvent...missing track
+2016-12-27 20:29:26:162: OnProcessEvent...missing track
+2016-12-27 20:29:28:018: Session Ending...  Preparing to shutdown.
+2016-12-27 20:29:28:018: Cancelling scanning...
+2016-12-27 20:29:28:065: Stopping session...
+2016-12-27 20:29:28:174: Saving session for restart.
+2016-12-27 20:29:29:329: Releasing singleton mutex.
+2016-12-27 20:29:29:329: Cleaning up engine storage.
+2016-12-27 20:29:29:875: Restoring Windows Automatic Update settings.
+2016-12-27 20:29:30:842: Closing pop-up windows...
+2016-12-27 20:29:30:873: Closing main window...
+2016-12-27 20:29:30:889: Done

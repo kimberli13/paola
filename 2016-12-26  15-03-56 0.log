@@ -1,0 +1,591 @@
+2016-12-26 15:04:00:872: Application Version: 2.2.3.0 built Jan 1, 2010 3:00 am UTC
+2016-12-26 15:04:00:872: Microsoft Windows 7 Ultimate Service Pack 1
+2016-12-26 15:04:00:872: 6.01 build 7601 Service Pack 1
+2016-12-26 15:04:00:872: Username: pablo
+2016-12-26 15:04:00:872: =============================================================================
+2016-12-26 15:04:00:872: Installation ID: cfb1a8e7-00c8-4dee-b07a-832a15d00d32
+2016-12-26 15:04:05:022: Monitoring driver installed
+2016-12-26 15:04:11:184: DumpPath: C:\Users\pablo\AppData\Local\Temp\<AppName>-1470776260.dmp
+2016-12-26 15:04:11:184: Looking for in-progress session...
+2016-12-26 15:04:11:184: MachineID: 769CE0D0-851A-400C-89B5-75C11341717D
+2016-12-26 15:04:11:184: InstallationID: CFB1A8E7-00C8-4DEE-B07A-832A15D00D32
+2016-12-26 15:04:11:184: Initializing user interface...
+2016-12-26 15:04:15:583: Checking registration state...
+2016-12-26 15:04:19:202: This version of AVG Driver Updater is unregistered.
+2016-12-26 15:04:23:040: Comparing driver data from last session...
+2016-12-26 15:04:23:180: Failed to get pc brand info: CInternetException thrown: No se pudo resolver el nombre de servidor ni su dirección
+
+2016-12-26 15:04:24:491: Creating tray icon...
+2016-12-26 15:04:24:772: Survey check...
+2016-12-26 15:04:24:772: Not registered?
+2016-12-26 15:04:24:803: AppStartFromBootCount: 3
+2016-12-26 15:04:24:881: Failed to get server version: CInternetException thrown: No se pudo resolver el nombre de servidor ni su dirección
+
+2016-12-26 15:04:24:881: strVersionData: 
+2016-12-26 15:04:25:286: OnProcessEvent...missing track
+2016-12-26 15:04:30:965: OnProcessEvent...missing track
+2016-12-26 15:04:39:571: New device: USB\VID_148F&PID_3070
+2016-12-26 15:04:41:151: New device: {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp\7&1704cc16
+2016-12-26 15:04:41:151: NOT a USB device
+2016-12-26 15:04:41:416: New device: {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp\7&1704cc16
+2016-12-26 15:04:41:416: NOT a USB device
+2016-12-26 15:04:41:946: OnProcessEvent...missing track
+2016-12-26 15:04:41:946: OnProcessEvent...missing track
+2016-12-26 15:04:45:191: Quick scan collect...
+2016-12-26 15:04:48:155: OnProcessEvent...missing track
+2016-12-26 15:04:48:155: OnProcessEvent...missing track
+2016-12-26 15:04:48:155: Quick scan collected.
+2016-12-26 15:04:48:155: Quick scan Analyze...
+2016-12-26 15:04:48:155: OnProcessEvent...missing track
+2016-12-26 15:04:48:155: Sending update request: GetDriverUpdates
+2016-12-26 15:04:48:155: OnProcessEvent...missing track
+2016-12-26 15:04:54:224: OnProcessEvent...missing track
+2016-12-26 15:04:55:144: OnProcessEvent...missing track
+2016-12-26 15:04:56:501: OnProcessEvent...missing track
+2016-12-26 15:04:57:609: OnProcessEvent...missing track
+2016-12-26 15:04:57:609: OnProcessEvent...missing track
+2016-12-26 15:04:58:482: OnProcessEvent...missing track
+2016-12-26 15:05:04:067: OnProcessEvent...missing track
+2016-12-26 15:05:04:083: OnProcessEvent...missing track
+2016-12-26 15:05:08:638: OnProcessEvent...missing track
+2016-12-26 15:05:10:682: OnProcessEvent...missing track
+2016-12-26 15:05:13:256: Quick scan...completed
+2016-12-26 15:05:14:005: Update found for PCI\VEN_8086&DEV_0104&SUBSYS_1854103C&REV_09
+2016-12-26 15:05:14:036: Update found for PCI\VEN_8086&DEV_1E26&SUBSYS_1854103C&REV_04
+2016-12-26 15:05:14:083: Update found for HDAUDIO\FUNC_01&VEN_8086&DEV_2806&SUBSYS_80860101&REV_1000
+2016-12-26 15:05:14:114: Update found for PCI\VEN_8086&DEV_0106&SUBSYS_1854103C&REV_09
+2016-12-26 15:05:14:176: Update found for PCI\VEN_8086&DEV_1E2D&SUBSYS_1854103C&REV_04
+2016-12-26 15:05:14:207: Update found for PCI\VEN_8086&DEV_1E03&SUBSYS_1854103C&REV_04
+2016-12-26 15:05:14:254: Update found for PCI\VEN_8086&DEV_1E3A&SUBSYS_1854103C&REV_04
+2016-12-26 15:05:14:301: Update found for PCI\VEN_8086&DEV_1E10&SUBSYS_1854103C&REV_C4
+2016-12-26 15:05:14:332: Update found for PCI\VEN_8086&DEV_1E5E&SUBSYS_1854103C&REV_04
+2016-12-26 15:05:14:363: Update found for PCI\VEN_8086&DEV_1E14&SUBSYS_1854103C&REV_C4
+2016-12-26 15:05:14:410: Update found for PCI\VEN_10EC&DEV_5229&SUBSYS_1854103C&REV_01
+2016-12-26 15:05:14:441: Update found for USB\VID_148F&PID_3070&REV_0101
+2016-12-26 15:05:14:473: Update found for PCI\VEN_8086&DEV_1E16&SUBSYS_1854103C&REV_C4
+2016-12-26 15:05:14:504: Update found for PCI\VEN_10EC&DEV_8136&SUBSYS_1854103C&REV_05
+2016-12-26 15:05:14:535: Update found for PCI\VEN_168C&DEV_0032&SUBSYS_1838103C&REV_01
+2016-12-26 15:05:14:566: Update found for PCI\VEN_8086&DEV_1E22&SUBSYS_1854103C&REV_04
+2016-12-26 15:05:14:597: Update found for HDAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_103C1854&REV_1002
+2016-12-26 15:05:14:629: Quick scan found 17 updates
+2016-12-26 15:05:27:129: OnProcessEvent...missing track
+2016-12-26 15:05:27:139: OnProcessEvent...missing track
+2016-12-26 15:05:27:139: OnProcessEvent...missing track
+2016-12-26 15:05:33:926: OnProcessEvent...missing track
+2016-12-26 15:05:36:110: OnProcessEvent...missing track
+2016-12-26 15:05:38:325: OnProcessEvent...missing track
+2016-12-26 15:05:46:078: OnProcessEvent...missing track
+2016-12-26 15:05:47:173: OnProcessEvent...missing track
+2016-12-26 15:05:47:175: OnProcessEvent...missing track
+2016-12-26 15:05:47:175: OnProcessEvent...missing track
+2016-12-26 15:06:00:703: OnProcessEvent...missing track
+2016-12-26 15:06:01:676: OnProcessEvent...missing track
+2016-12-26 15:06:08:352: OnProcessEvent...missing track
+2016-12-26 15:06:17:398: OnProcessEvent...missing track
+2016-12-26 15:06:32:020: OnProcessEvent...missing track
+2016-12-26 15:06:37:074: OnProcessEvent...missing track
+2016-12-26 15:06:45:879: OnProcessEvent...missing track
+2016-12-26 15:06:46:985: OnProcessEvent...missing track
+2016-12-26 15:06:52:509: OnProcessEvent...missing track
+2016-12-26 15:09:29:071: OnProcessEvent...missing track
+2016-12-26 15:09:37:070: OnProcessEvent...missing track
+2016-12-26 15:09:37:658: OnProcessEvent...missing track
+2016-12-26 15:09:37:658: OnProcessEvent...missing track
+2016-12-26 15:09:37:658: OnProcessEvent...missing track
+2016-12-26 15:09:37:659: OnProcessEvent...missing track
+2016-12-26 15:09:37:659: OnProcessEvent...missing track
+2016-12-26 15:09:37:659: OnProcessEvent...missing track
+2016-12-26 15:09:37:659: OnProcessEvent...missing track
+2016-12-26 15:09:37:660: OnProcessEvent...missing track
+2016-12-26 15:09:37:660: OnProcessEvent...missing track
+2016-12-26 15:09:37:660: OnProcessEvent...missing track
+2016-12-26 15:09:37:661: OnProcessEvent...missing track
+2016-12-26 15:09:37:661: OnProcessEvent...missing track
+2016-12-26 15:09:37:661: OnProcessEvent...missing track
+2016-12-26 15:09:37:661: OnProcessEvent...missing track
+2016-12-26 15:09:37:662: OnProcessEvent...missing track
+2016-12-26 15:09:37:662: OnProcessEvent...missing track
+2016-12-26 15:09:37:662: OnProcessEvent...missing track
+2016-12-26 15:09:37:662: OnProcessEvent...missing track
+2016-12-26 15:09:38:715: OnProcessEvent...missing track
+2016-12-26 15:09:38:716: OnProcessEvent...missing track
+2016-12-26 15:09:38:716: OnProcessEvent...missing track
+2016-12-26 15:09:38:716: OnProcessEvent...missing track
+2016-12-26 15:09:38:716: OnProcessEvent...missing track
+2016-12-26 15:09:38:717: OnProcessEvent...missing track
+2016-12-26 15:09:38:717: OnProcessEvent...missing track
+2016-12-26 15:09:38:717: OnProcessEvent...missing track
+2016-12-26 15:09:38:718: OnProcessEvent...missing track
+2016-12-26 15:09:38:718: OnProcessEvent...missing track
+2016-12-26 15:10:13:258: OnProcessEvent...missing track
+2016-12-26 15:10:29:413: OnProcessEvent...missing track
+2016-12-26 15:11:28:945: OnProcessEvent...missing track
+2016-12-26 15:11:28:945: OnProcessEvent...missing track
+2016-12-26 15:11:39:138: OnProcessEvent...missing track
+2016-12-26 15:11:50:145: OnProcessEvent...missing track
+2016-12-26 15:11:55:607: OnProcessEvent...missing track
+2016-12-26 15:12:09:824: OnProcessEvent...missing track
+2016-12-26 15:12:26:905: OnProcessEvent...missing track
+2016-12-26 15:12:28:624: OnProcessEvent...missing track
+2016-12-26 15:12:33:206: OnProcessEvent...missing track
+2016-12-26 15:12:35:409: OnProcessEvent...missing track
+2016-12-26 15:12:47:726: OnProcessEvent...missing track
+2016-12-26 15:12:54:519: OnProcessEvent...missing track
+2016-12-26 15:12:55:381: OnProcessEvent...missing track
+2016-12-26 15:12:55:828: OnProcessEvent...missing track
+2016-12-26 15:13:26:693: OnProcessEvent...missing track
+2016-12-26 15:13:30:684: OnProcessEvent...missing track
+2016-12-26 15:13:30:684: OnProcessEvent...missing track
+2016-12-26 15:13:50:226: OnProcessEvent...missing track
+2016-12-26 15:14:24:628: OnProcessEvent...missing track
+2016-12-26 15:14:26:086: OnProcessEvent...missing track
+2016-12-26 15:14:29:042: OnProcessEvent...missing track
+2016-12-26 15:14:43:642: OnProcessEvent...missing track
+2016-12-26 15:14:57:902: OnProcessEvent...missing track
+2016-12-26 15:14:57:903: OnProcessEvent...missing track
+2016-12-26 15:15:17:275: OnProcessEvent...missing track
+2016-12-26 15:15:19:528: OnProcessEvent...missing track
+2016-12-26 15:15:21:750: OnProcessEvent...missing track
+2016-12-26 15:15:22:201: OnProcessEvent...missing track
+2016-12-26 15:15:32:789: OnProcessEvent...missing track
+2016-12-26 15:15:34:352: OnProcessEvent...missing track
+2016-12-26 15:15:37:647: OnProcessEvent...missing track
+2016-12-26 15:15:53:778: OnProcessEvent...missing track
+2016-12-26 15:15:53:779: OnProcessEvent...missing track
+2016-12-26 15:15:58:685: OnProcessEvent...missing track
+2016-12-26 15:16:10:857: OnProcessEvent...missing track
+2016-12-26 15:16:15:273: OnProcessEvent...missing track
+2016-12-26 15:16:44:484: OnProcessEvent...missing track
+2016-12-26 15:16:44:484: OnProcessEvent...missing track
+2016-12-26 15:17:06:374: OnProcessEvent...missing track
+2016-12-26 15:17:06:375: OnProcessEvent...missing track
+2016-12-26 15:17:11:375: OnProcessEvent...missing track
+2016-12-26 15:17:23:899: OnProcessEvent...missing track
+2016-12-26 15:17:27:884: OnProcessEvent...missing track
+2016-12-26 15:17:39:933: OnProcessEvent...missing track
+2016-12-26 15:18:07:285: OnProcessEvent...missing track
+2016-12-26 15:18:10:978: OnProcessEvent...missing track
+2016-12-26 15:18:16:072: OnProcessEvent...missing track
+2016-12-26 15:18:22:149: OnProcessEvent...missing track
+2016-12-26 15:18:22:150: OnProcessEvent...missing track
+2016-12-26 15:18:24:414: OnProcessEvent...missing track
+2016-12-26 15:18:24:415: OnProcessEvent...missing track
+2016-12-26 15:18:24:862: OnProcessEvent...missing track
+2016-12-26 15:18:25:531: OnProcessEvent...missing track
+2016-12-26 15:18:26:629: OnProcessEvent...missing track
+2016-12-26 15:18:27:060: OnProcessEvent...missing track
+2016-12-26 15:18:30:371: OnProcessEvent...missing track
+2016-12-26 15:18:30:371: OnProcessEvent...missing track
+2016-12-26 15:18:31:463: OnProcessEvent...missing track
+2016-12-26 15:18:34:330: OnProcessEvent...missing track
+2016-12-26 15:18:34:330: OnProcessEvent...missing track
+2016-12-26 15:18:39:136: OnProcessEvent...missing track
+2016-12-26 15:19:53:428: OnProcessEvent...missing track
+2016-12-26 15:19:53:428: OnProcessEvent...missing track
+2016-12-26 15:20:08:902: OnProcessEvent...missing track
+2016-12-26 15:20:10:009: OnProcessEvent...missing track
+2016-12-26 15:20:11:655: OnProcessEvent...missing track
+2016-12-26 15:20:11:656: OnProcessEvent...missing track
+2016-12-26 15:22:02:988: OnProcessEvent...missing track
+2016-12-26 15:22:02:989: OnProcessEvent...missing track
+2016-12-26 15:22:26:626: OnProcessEvent...missing track
+2016-12-26 15:22:28:400: OnProcessEvent...missing track
+2016-12-26 15:23:06:986: OnProcessEvent...missing track
+2016-12-26 15:23:07:441: OnProcessEvent...missing track
+2016-12-26 15:23:07:442: OnProcessEvent...missing track
+2016-12-26 15:23:12:975: OnProcessEvent...missing track
+2016-12-26 15:23:13:592: OnProcessEvent...missing track
+2016-12-26 15:23:23:549: OnProcessEvent...missing track
+2016-12-26 15:23:29:837: OnProcessEvent...missing track
+2016-12-26 15:23:29:838: OnProcessEvent...missing track
+2016-12-26 15:23:32:058: OnProcessEvent...missing track
+2016-12-26 15:23:32:471: OnProcessEvent...missing track
+2016-12-26 15:23:32:472: OnProcessEvent...missing track
+2016-12-26 15:23:38:003: OnProcessEvent...missing track
+2016-12-26 15:23:42:011: OnProcessEvent...missing track
+2016-12-26 15:23:44:656: OnProcessEvent...missing track
+2016-12-26 15:24:00:123: OnProcessEvent...missing track
+2016-12-26 15:24:00:124: OnProcessEvent...missing track
+2016-12-26 15:24:29:457: OnProcessEvent...missing track
+2016-12-26 15:24:35:596: OnProcessEvent...missing track
+2016-12-26 15:24:37:794: OnProcessEvent...missing track
+2016-12-26 15:24:37:795: OnProcessEvent...missing track
+2016-12-26 15:24:41:571: OnProcessEvent...missing track
+2016-12-26 15:24:41:572: OnProcessEvent...missing track
+2016-12-26 15:24:46:689: OnProcessEvent...missing track
+2016-12-26 15:24:47:095: OnProcessEvent...missing track
+2016-12-26 15:24:50:434: OnProcessEvent...missing track
+2016-12-26 15:24:51:115: OnProcessEvent...missing track
+2016-12-26 15:24:51:116: OnProcessEvent...missing track
+2016-12-26 15:24:51:559: OnProcessEvent...missing track
+2016-12-26 15:24:51:560: OnProcessEvent...missing track
+2016-12-26 15:24:52:723: OnProcessEvent...missing track
+2016-12-26 15:24:52:724: OnProcessEvent...missing track
+2016-12-26 15:24:53:367: OnProcessEvent...missing track
+2016-12-26 15:24:54:950: OnProcessEvent...missing track
+2016-12-26 15:24:54:951: OnProcessEvent...missing track
+2016-12-26 15:24:55:616: OnProcessEvent...missing track
+2016-12-26 15:24:56:067: OnProcessEvent...missing track
+2016-12-26 15:24:56:703: OnProcessEvent...missing track
+2016-12-26 15:24:56:704: OnProcessEvent...missing track
+2016-12-26 15:24:56:704: OnProcessEvent...missing track
+2016-12-26 15:24:56:704: OnProcessEvent...missing track
+2016-12-26 15:25:13:216: OnProcessEvent...missing track
+2016-12-26 15:25:26:896: OnProcessEvent...missing track
+2016-12-26 15:25:29:148: OnProcessEvent...missing track
+2016-12-26 15:25:30:262: OnProcessEvent...missing track
+2016-12-26 15:25:34:083: OnProcessEvent...missing track
+2016-12-26 15:25:45:696: OnProcessEvent...missing track
+2016-12-26 15:25:45:699: OnProcessEvent...missing track
+2016-12-26 15:25:45:699: OnProcessEvent...missing track
+2016-12-26 15:26:02:291: OnProcessEvent...missing track
+2016-12-26 15:26:31:661: OnProcessEvent...missing track
+2016-12-26 15:26:39:967: OnProcessEvent...missing track
+2016-12-26 15:26:56:588: OnProcessEvent...missing track
+2016-12-26 15:26:56:588: OnProcessEvent...missing track
+2016-12-26 15:26:57:712: OnProcessEvent...missing track
+2016-12-26 15:26:59:993: OnProcessEvent...missing track
+2016-12-26 15:26:59:993: OnProcessEvent...missing track
+2016-12-26 15:26:59:993: OnProcessEvent...missing track
+2016-12-26 15:27:05:267: OnProcessEvent...missing track
+2016-12-26 15:27:05:283: OnProcessEvent...missing track
+2016-12-26 15:27:05:283: OnProcessEvent...missing track
+2016-12-26 15:27:10:854: OnProcessEvent...missing track
+2016-12-26 15:27:10:854: OnProcessEvent...missing track
+2016-12-26 15:27:10:854: OnProcessEvent...missing track
+2016-12-26 15:27:14:194: OnProcessEvent...missing track
+2016-12-26 15:27:14:584: OnProcessEvent...missing track
+2016-12-26 15:27:14:584: OnProcessEvent...missing track
+2016-12-26 15:27:14:584: OnProcessEvent...missing track
+2016-12-26 15:27:15:317: OnProcessEvent...missing track
+2016-12-26 15:27:15:317: OnProcessEvent...missing track
+2016-12-26 15:27:15:317: OnProcessEvent...missing track
+2016-12-26 15:27:44:711: OnProcessEvent...missing track
+2016-12-26 15:27:45:800: OnProcessEvent...missing track
+2016-12-26 15:27:48:016: OnProcessEvent...missing track
+2016-12-26 15:27:50:855: OnProcessEvent...missing track
+2016-12-26 15:27:58:662: OnProcessEvent...missing track
+2016-12-26 15:28:00:919: OnProcessEvent...missing track
+2016-12-26 15:28:05:914: OnProcessEvent...missing track
+2016-12-26 15:28:05:914: OnProcessEvent...missing track
+2016-12-26 15:28:05:915: OnProcessEvent...missing track
+2016-12-26 15:28:05:915: OnProcessEvent...missing track
+2016-12-26 15:28:07:091: OnProcessEvent...missing track
+2016-12-26 15:28:07:093: OnProcessEvent...missing track
+2016-12-26 15:28:11:589: OnProcessEvent...missing track
+2016-12-26 15:28:12:727: OnProcessEvent...missing track
+2016-12-26 15:28:12:727: OnProcessEvent...missing track
+2016-12-26 15:28:13:882: OnProcessEvent...missing track
+2016-12-26 15:28:15:548: OnProcessEvent...missing track
+2016-12-26 15:28:18:917: OnProcessEvent...missing track
+2016-12-26 15:28:30:135: OnProcessEvent...missing track
+2016-12-26 15:28:32:325: OnProcessEvent...missing track
+2016-12-26 15:28:39:004: OnProcessEvent...missing track
+2016-12-26 15:28:42:374: OnProcessEvent...missing track
+2016-12-26 15:28:42:374: OnProcessEvent...missing track
+2016-12-26 15:28:42:374: OnProcessEvent...missing track
+2016-12-26 15:28:42:374: OnProcessEvent...missing track
+2016-12-26 15:28:51:984: OnProcessEvent...missing track
+2016-12-26 15:28:51:984: OnProcessEvent...missing track
+2016-12-26 15:28:53:482: OnProcessEvent...missing track
+2016-12-26 15:28:53:482: OnProcessEvent...missing track
+2016-12-26 15:28:55:682: OnProcessEvent...missing track
+2016-12-26 15:29:07:537: OnProcessEvent...missing track
+2016-12-26 15:29:07:537: OnProcessEvent...missing track
+2016-12-26 15:29:08:988: OnProcessEvent...missing track
+2016-12-26 15:29:08:988: OnProcessEvent...missing track
+2016-12-26 15:29:08:988: OnProcessEvent...missing track
+2016-12-26 15:29:12:311: OnProcessEvent...missing track
+2016-12-26 15:29:43:010: OnProcessEvent...missing track
+2016-12-26 15:29:48:501: OnProcessEvent...missing track
+2016-12-26 15:29:48:501: OnProcessEvent...missing track
+2016-12-26 15:29:48:501: OnProcessEvent...missing track
+2016-12-26 15:29:50:397: OnProcessEvent...missing track
+2016-12-26 15:29:50:678: OnProcessEvent...missing track
+2016-12-26 15:29:56:242: OnProcessEvent...missing track
+2016-12-26 15:29:56:242: OnProcessEvent...missing track
+2016-12-26 15:29:56:242: OnProcessEvent...missing track
+2016-12-26 15:29:57:334: OnProcessEvent...missing track
+2016-12-26 15:29:57:334: OnProcessEvent...missing track
+2016-12-26 15:29:57:334: OnProcessEvent...missing track
+2016-12-26 15:29:58:082: OnProcessEvent...missing track
+2016-12-26 15:29:58:082: OnProcessEvent...missing track
+2016-12-26 15:30:03:886: OnProcessEvent...missing track
+2016-12-26 15:30:33:042: OnProcessEvent...missing track
+2016-12-26 15:30:38:845: OnProcessEvent...missing track
+2016-12-26 15:31:06:095: OnProcessEvent...missing track
+2016-12-26 15:31:32:833: OnProcessEvent...missing track
+2016-12-26 15:31:33:910: OnProcessEvent...missing track
+2016-12-26 15:31:38:855: OnProcessEvent...missing track
+2016-12-26 15:31:41:597: OnProcessEvent...missing track
+2016-12-26 15:31:45:434: OnProcessEvent...missing track
+2016-12-26 15:31:45:434: OnProcessEvent...missing track
+2016-12-26 15:31:46:526: OnProcessEvent...missing track
+2016-12-26 15:31:52:501: OnProcessEvent...missing track
+2016-12-26 15:31:53:109: OnProcessEvent...missing track
+2016-12-26 15:32:38:379: OnProcessEvent...missing track
+2016-12-26 15:32:38:379: OnProcessEvent...missing track
+2016-12-26 15:32:43:356: OnProcessEvent...missing track
+2016-12-26 15:32:43:356: OnProcessEvent...missing track
+2016-12-26 15:32:53:667: OnProcessEvent...missing track
+2016-12-26 15:33:04:587: OnProcessEvent...missing track
+2016-12-26 15:33:09:626: OnProcessEvent...missing track
+2016-12-26 15:33:32:589: OnProcessEvent...missing track
+2016-12-26 15:34:04:678: OnProcessEvent...missing track
+2016-12-26 15:34:07:549: OnProcessEvent...missing track
+2016-12-26 15:34:09:717: OnProcessEvent...missing track
+2016-12-26 15:34:13:414: OnProcessEvent...missing track
+2016-12-26 15:35:36:032: OnProcessEvent...missing track
+2016-12-26 15:36:02:646: OnProcessEvent...missing track
+2016-12-26 15:36:02:646: OnProcessEvent...missing track
+2016-12-26 15:36:03:348: OnProcessEvent...missing track
+2016-12-26 15:36:07:716: OnProcessEvent...missing track
+2016-12-26 15:36:23:004: OnProcessEvent...missing track
+2016-12-26 15:36:32:832: OnProcessEvent...missing track
+2016-12-26 15:36:59:040: OnProcessEvent...missing track
+2016-12-26 15:37:02:316: OnProcessEvent...missing track
+2016-12-26 15:37:22:500: OnProcessEvent...missing track
+2016-12-26 15:37:23:592: OnProcessEvent...missing track
+2016-12-26 15:37:23:592: OnProcessEvent...missing track
+2016-12-26 15:37:28:553: OnProcessEvent...missing track
+2016-12-26 15:37:32:921: OnProcessEvent...missing track
+2016-12-26 15:37:55:291: OnProcessEvent...missing track
+2016-12-26 15:38:00:190: OnProcessEvent...missing track
+2016-12-26 15:38:10:455: OnProcessEvent...missing track
+2016-12-26 15:38:13:715: OnProcessEvent...missing track
+2016-12-26 15:38:13:715: OnProcessEvent...missing track
+2016-12-26 15:38:57:395: OnProcessEvent...missing track
+2016-12-26 15:39:05:055: OnProcessEvent...missing track
+2016-12-26 15:39:06:708: OnProcessEvent...missing track
+2016-12-26 15:39:07:239: OnProcessEvent...missing track
+2016-12-26 15:39:07:239: OnProcessEvent...missing track
+2016-12-26 15:39:16:536: OnProcessEvent...missing track
+2016-12-26 15:39:20:358: OnProcessEvent...missing track
+2016-12-26 15:39:20:358: OnProcessEvent...missing track
+2016-12-26 15:39:20:358: OnProcessEvent...missing track
+2016-12-26 15:39:21:996: OnProcessEvent...missing track
+2016-12-26 15:39:21:996: OnProcessEvent...missing track
+2016-12-26 15:40:50:980: OnProcessEvent...missing track
+2016-12-26 15:41:12:836: OnProcessEvent...missing track
+2016-12-26 15:41:12:851: OnProcessEvent...missing track
+2016-12-26 15:41:15:784: OnProcessEvent...missing track
+2016-12-26 15:41:24:534: OnProcessEvent...missing track
+2016-12-26 15:41:24:534: OnProcessEvent...missing track
+2016-12-26 15:41:24:534: OnProcessEvent...missing track
+2016-12-26 15:41:31:482: OnProcessEvent...missing track
+2016-12-26 15:41:35:850: OnProcessEvent...missing track
+2016-12-26 15:41:36:568: OnProcessEvent...missing track
+2016-12-26 15:41:40:936: OnProcessEvent...missing track
+2016-12-26 15:42:00:951: OnProcessEvent...missing track
+2016-12-26 15:42:06:052: OnProcessEvent...missing track
+2016-12-26 15:42:15:124: OnProcessEvent...missing track
+2016-12-26 15:42:20:256: OnProcessEvent...missing track
+2016-12-26 15:42:30:417: OnProcessEvent...missing track
+2016-12-26 15:42:35:539: OnProcessEvent...missing track
+2016-12-26 15:42:42:450: OnProcessEvent...missing track
+2016-12-26 15:42:42:450: OnProcessEvent...missing track
+2016-12-26 15:42:42:450: OnProcessEvent...missing track
+2016-12-26 15:42:42:450: OnProcessEvent...missing track
+2016-12-26 15:42:43:230: OnProcessEvent...missing track
+2016-12-26 15:42:47:598: OnProcessEvent...missing track
+2016-12-26 15:42:47:598: OnProcessEvent...missing track
+2016-12-26 15:42:50:078: OnProcessEvent...missing track
+2016-12-26 15:42:50:078: OnProcessEvent...missing track
+2016-12-26 15:42:51:170: OnProcessEvent...missing track
+2016-12-26 15:42:56:677: OnProcessEvent...missing track
+2016-12-26 15:42:57:769: OnProcessEvent...missing track
+2016-12-26 15:42:57:769: OnProcessEvent...missing track
+2016-12-26 15:43:05:195: OnProcessEvent...missing track
+2016-12-26 15:43:05:491: OnProcessEvent...missing track
+2016-12-26 15:43:06:738: New device: USB\VID_148F&PID_3070
+2016-12-26 15:43:07:815: New device: {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp\7&1704cc16
+2016-12-26 15:43:07:815: NOT a USB device
+2016-12-26 15:43:07:815: OnProcessEvent...missing track
+2016-12-26 15:43:07:815: OnProcessEvent...missing track
+2016-12-26 15:43:08:080: New device: {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp\7&1704cc16
+2016-12-26 15:43:08:080: NOT a USB device
+2016-12-26 15:43:10:794: Quick scan collect...
+2016-12-26 15:43:12:370: Quick scan collected.
+2016-12-26 15:43:12:370: Quick scan Analyze...
+2016-12-26 15:43:12:370: Sending update request: GetDriverUpdates
+2016-12-26 15:43:13:399: OnProcessEvent...missing track
+2016-12-26 15:43:13:399: OnProcessEvent...missing track
+2016-12-26 15:43:14:304: OnProcessEvent...missing track
+2016-12-26 15:43:19:858: OnProcessEvent...missing track
+2016-12-26 15:43:20:950: OnProcessEvent...missing track
+2016-12-26 15:43:23:134: OnProcessEvent...missing track
+2016-12-26 15:43:27:315: Request failed: CInternetException: No se pudo resolver el nombre de servidor ni su dirección
+
+2016-12-26 15:43:27:315: Quick scan...completed
+2016-12-26 15:43:27:658: Quick scan found 0 updates
+2016-12-26 15:43:27:658: OnProcessEvent...missing track
+2016-12-26 15:43:45:239: OnProcessEvent...missing track
+2016-12-26 15:43:46:440: OnProcessEvent...missing track
+2016-12-26 15:43:47:439: OnProcessEvent...missing track
+2016-12-26 15:43:52:938: OnProcessEvent...missing track
+2016-12-26 15:43:53:079: OnProcessEvent...missing track
+2016-12-26 15:43:53:110: OnProcessEvent...missing track
+2016-12-26 15:43:53:110: OnProcessEvent...missing track
+2016-12-26 15:43:57:384: OnProcessEvent...missing track
+2016-12-26 15:43:57:384: OnProcessEvent...missing track
+2016-12-26 15:44:00:770: OnProcessEvent...missing track
+2016-12-26 15:44:06:386: OnProcessEvent...missing track
+2016-12-26 15:44:06:386: OnProcessEvent...missing track
+2016-12-26 15:44:07:509: OnProcessEvent...missing track
+2016-12-26 15:44:07:509: OnProcessEvent...missing track
+2016-12-26 15:44:08:663: OnProcessEvent...missing track
+2016-12-26 15:44:18:694: OnProcessEvent...missing track
+2016-12-26 15:44:19:895: OnProcessEvent...missing track
+2016-12-26 15:44:19:895: OnProcessEvent...missing track
+2016-12-26 15:44:20:878: OnProcessEvent...missing track
+2016-12-26 15:44:21:081: OnProcessEvent...missing track
+2016-12-26 15:44:21:081: OnProcessEvent...missing track
+2016-12-26 15:44:21:081: OnProcessEvent...missing track
+2016-12-26 15:44:21:081: OnProcessEvent...missing track
+2016-12-26 15:44:25:429: OnProcessEvent...missing track
+2016-12-26 15:44:37:519: OnProcessEvent...missing track
+2016-12-26 15:45:19:909: OnProcessEvent...missing track
+2016-12-26 15:45:25:364: OnProcessEvent...missing track
+2016-12-26 15:45:25:364: OnProcessEvent...missing track
+2016-12-26 15:45:26:784: OnProcessEvent...missing track
+2016-12-26 15:45:36:518: OnProcessEvent...missing track
+2016-12-26 15:45:41:042: OnProcessEvent...missing track
+2016-12-26 15:45:45:301: OnProcessEvent...missing track
+2016-12-26 15:45:45:301: OnProcessEvent...missing track
+2016-12-26 15:45:45:301: OnProcessEvent...missing track
+2016-12-26 15:45:46:409: OnProcessEvent...missing track
+2016-12-26 15:45:46:409: OnProcessEvent...missing track
+2016-12-26 15:45:46:409: OnProcessEvent...missing track
+2016-12-26 15:45:46:409: OnProcessEvent...missing track
+2016-12-26 15:45:46:721: OnProcessEvent...missing track
+2016-12-26 15:45:46:721: OnProcessEvent...missing track
+2016-12-26 15:45:47:730: OnProcessEvent...missing track
+2016-12-26 15:45:47:731: OnProcessEvent...missing track
+2016-12-26 15:45:47:731: OnProcessEvent...missing track
+2016-12-26 15:45:47:731: OnProcessEvent...missing track
+2016-12-26 15:45:47:731: OnProcessEvent...missing track
+2016-12-26 15:46:28:606: OnProcessEvent...missing track
+2016-12-26 15:46:28:606: OnProcessEvent...missing track
+2016-12-26 15:46:29:747: OnProcessEvent...missing track
+2016-12-26 15:46:31:182: OnProcessEvent...missing track
+2016-12-26 15:46:31:182: OnProcessEvent...missing track
+2016-12-26 15:46:33:494: OnProcessEvent...missing track
+2016-12-26 15:46:44:285: OnProcessEvent...missing track
+2016-12-26 15:46:45:729: OnProcessEvent...missing track
+2016-12-26 15:46:45:730: OnProcessEvent...missing track
+2016-12-26 15:46:46:907: OnProcessEvent...missing track
+2016-12-26 15:46:47:525: OnProcessEvent...missing track
+2016-12-26 15:46:47:525: OnProcessEvent...missing track
+2016-12-26 15:47:05:833: OnProcessEvent...missing track
+2016-12-26 15:48:00:900: OnProcessEvent...missing track
+2016-12-26 15:48:00:901: OnProcessEvent...missing track
+2016-12-26 15:48:12:502: OnProcessEvent...missing track
+2016-12-26 15:48:26:511: OnProcessEvent...missing track
+2016-12-26 15:48:34:352: OnProcessEvent...missing track
+2016-12-26 15:48:34:354: OnProcessEvent...missing track
+2016-12-26 15:48:34:817: OnProcessEvent...missing track
+2016-12-26 15:48:39:355: OnProcessEvent...missing track
+2016-12-26 15:48:39:355: OnProcessEvent...missing track
+2016-12-26 15:48:47:120: OnProcessEvent...missing track
+2016-12-26 15:49:09:296: OnProcessEvent...missing track
+2016-12-26 15:49:45:694: OnProcessEvent...missing track
+2016-12-26 15:51:19:533: OnProcessEvent...missing track
+2016-12-26 15:51:19:533: OnProcessEvent...missing track
+2016-12-26 15:51:21:780: OnProcessEvent...missing track
+2016-12-26 15:52:28:846: OnProcessEvent...missing track
+2016-12-26 15:52:28:846: OnProcessEvent...missing track
+2016-12-26 15:53:00:953: OnProcessEvent...missing track
+2016-12-26 15:53:31:948: OnProcessEvent...missing track
+2016-12-26 15:54:21:736: OnProcessEvent...missing track
+2016-12-26 15:55:33:760: OnProcessEvent...missing track
+2016-12-26 15:55:33:760: OnProcessEvent...missing track
+2016-12-26 15:55:38:302: OnProcessEvent...missing track
+2016-12-26 15:55:39:400: OnProcessEvent...missing track
+2016-12-26 15:55:41:611: OnProcessEvent...missing track
+2016-12-26 15:55:41:611: OnProcessEvent...missing track
+2016-12-26 15:55:41:611: OnProcessEvent...missing track
+2016-12-26 15:55:51:579: OnProcessEvent...missing track
+2016-12-26 15:55:51:579: OnProcessEvent...missing track
+2016-12-26 15:55:51:595: OnProcessEvent...missing track
+2016-12-26 15:55:57:086: OnProcessEvent...missing track
+2016-12-26 15:55:57:086: OnProcessEvent...missing track
+2016-12-26 15:55:57:086: OnProcessEvent...missing track
+2016-12-26 15:55:57:086: OnProcessEvent...missing track
+2016-12-26 15:56:45:337: OnProcessEvent...missing track
+2016-12-26 15:56:45:337: OnProcessEvent...missing track
+2016-12-26 15:56:46:424: OnProcessEvent...missing track
+2016-12-26 15:56:47:548: OnProcessEvent...missing track
+2016-12-26 15:56:47:548: OnProcessEvent...missing track
+2016-12-26 15:56:47:548: OnProcessEvent...missing track
+2016-12-26 15:56:47:611: OnProcessEvent...missing track
+2016-12-26 15:56:48:625: OnProcessEvent...missing track
+2016-12-26 15:56:48:625: OnProcessEvent...missing track
+2016-12-26 15:56:51:324: OnProcessEvent...missing track
+2016-12-26 15:56:52:431: OnProcessEvent...missing track
+2016-12-26 15:56:52:431: OnProcessEvent...missing track
+2016-12-26 15:57:25:160: OnProcessEvent...missing track
+2016-12-26 15:57:28:795: OnProcessEvent...missing track
+2016-12-26 15:57:30:807: OnProcessEvent...missing track
+2016-12-26 15:57:30:807: OnProcessEvent...missing track
+2016-12-26 15:57:30:807: OnProcessEvent...missing track
+2016-12-26 15:57:30:807: OnProcessEvent...missing track
+2016-12-26 15:57:31:275: OnProcessEvent...missing track
+2016-12-26 15:57:31:275: OnProcessEvent...missing track
+2016-12-26 15:57:31:275: OnProcessEvent...missing track
+2016-12-26 15:57:32:133: OnProcessEvent...missing track
+2016-12-26 15:57:32:133: OnProcessEvent...missing track
+2016-12-26 15:57:32:133: OnProcessEvent...missing track
+2016-12-26 15:57:32:133: OnProcessEvent...missing track
+2016-12-26 15:57:32:133: OnProcessEvent...missing track
+2016-12-26 15:57:32:133: OnProcessEvent...missing track
+2016-12-26 15:57:32:133: OnProcessEvent...missing track
+2016-12-26 15:57:32:352: OnProcessEvent...missing track
+2016-12-26 15:57:32:352: OnProcessEvent...missing track
+2016-12-26 15:57:33:288: OnProcessEvent...missing track
+2016-12-26 15:57:34:520: OnProcessEvent...missing track
+2016-12-26 15:57:34:520: OnProcessEvent...missing track
+2016-12-26 15:57:34:520: OnProcessEvent...missing track
+2016-12-26 15:57:34:520: OnProcessEvent...missing track
+2016-12-26 15:57:37:546: OnProcessEvent...missing track
+2016-12-26 15:57:37:546: OnProcessEvent...missing track
+2016-12-26 15:57:37:546: OnProcessEvent...missing track
+2016-12-26 15:57:37:711: OnProcessEvent...missing track
+2016-12-26 15:57:37:711: OnProcessEvent...missing track
+2016-12-26 15:57:37:711: OnProcessEvent...missing track
+2016-12-26 15:57:37:711: OnProcessEvent...missing track
+2016-12-26 15:57:38:643: OnProcessEvent...missing track
+2016-12-26 15:57:38:799: OnProcessEvent...missing track
+2016-12-26 15:57:38:799: OnProcessEvent...missing track
+2016-12-26 15:57:39:750: OnProcessEvent...missing track
+2016-12-26 15:57:39:969: OnProcessEvent...missing track
+2016-12-26 15:57:40:874: OnProcessEvent...missing track
+2016-12-26 15:57:40:874: OnProcessEvent...missing track
+2016-12-26 15:57:41:061: OnProcessEvent...missing track
+2016-12-26 15:57:41:061: OnProcessEvent...missing track
+2016-12-26 15:57:41:950: OnProcessEvent...missing track
+2016-12-26 15:57:42:137: OnProcessEvent...missing track
+2016-12-26 15:57:42:137: OnProcessEvent...missing track
+2016-12-26 15:57:43:042: OnProcessEvent...missing track
+2016-12-26 15:57:44:134: OnProcessEvent...missing track
+2016-12-26 15:57:45:569: OnProcessEvent...missing track
+2016-12-26 15:57:47:441: OnProcessEvent...missing track
+2016-12-26 15:57:47:441: OnProcessEvent...missing track
+2016-12-26 15:57:48:533: OnProcessEvent...missing track
+2016-12-26 15:57:48:923: OnProcessEvent...missing track
+2016-12-26 15:57:52:293: OnProcessEvent...missing track
+2016-12-26 15:57:52:948: OnProcessEvent...missing track
+2016-12-26 15:57:54:071: OnProcessEvent...missing track
+2016-12-26 15:57:54:071: OnProcessEvent...missing track
+2016-12-26 15:57:54:539: OnProcessEvent...missing track
+2016-12-26 15:57:55:171: OnProcessEvent...missing track
+2016-12-26 15:57:55:642: OnProcessEvent...missing track
+2016-12-26 15:57:56:262: OnProcessEvent...missing track
+2016-12-26 15:58:06:593: OnProcessEvent...missing track
+2016-12-26 15:58:17:036: OnProcessEvent...missing track
+2016-12-26 15:58:22:980: OnProcessEvent...missing track
+2016-12-26 15:58:48:165: Saving session for restart.
+2016-12-26 15:58:48:446: Releasing singleton mutex.
+2016-12-26 15:58:48:446: Cleaning up engine storage.
+2016-12-26 15:58:48:446: Restoring Windows Automatic Update settings.
+2016-12-26 15:58:48:711: Uninstalling package monitor driver.
+2016-12-26 15:58:48:883: Failed to remove monitoring driver: El sistema no puede encontrar el archivo especificado.. 0x80070002

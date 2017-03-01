@@ -1,0 +1,27 @@
+http://gateway.messenger.hotmail.com/gateway/gateway.dll?==================================================
+Index             : 4
+Protocol          : TCP
+Local Address     : 192.168.100.104
+Remote Address    : 173.194.202.188
+Local Port        : 49192
+Remote Port       : 5228
+Local Host        : 
+Remote Host       : 
+Service Name      : 
+Packets           : 21  {21 ; 0}
+Data Size         : 43 Bytes  {43 ; 0}
+Total Size        : 936 Bytes  {895 ; 41}
+Data Speed        : 0.0 KB/Sec
+Capture Time      : 29/12/2016 12:44:54 a.m.:484
+Last Packet Time  : 29/12/2016 12:58:26 a.m.:601
+Duration          : 00:13:32.117
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+00000000  00 17 03 03 00 14 FB 3E  81 30 5C 05 A8 D1 E2 F3   ......๛> 0\.จัโ๓ 
+00000010  CF DA 61 D3 36 13 FC E9  B9 00                     ฯฺaำ6.ü้ น.
+
+

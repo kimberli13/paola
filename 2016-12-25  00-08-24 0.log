@@ -1,0 +1,72 @@
+2016-12-25 00:08:26:184: Application Version: 2.2.3.0 built Jan 1, 2010 3:00 am UTC
+2016-12-25 00:08:26:184: Microsoft Windows 7 Ultimate Service Pack 1
+2016-12-25 00:08:26:184: 6.01 build 7601 Service Pack 1
+2016-12-25 00:08:26:184: Username: pablo
+2016-12-25 00:08:26:184: =============================================================================
+2016-12-25 00:08:26:184: Installation ID: cfb1a8e7-00c8-4dee-b07a-832a15d00d32
+2016-12-25 00:08:28:399: Monitoring driver installed
+2016-12-25 00:08:33:048: Loading ignores file failed: CFileException thrown: C:\Users\pablo\AppData\Local\AVG Netherlands BV\AVG Driver Updater\ignores.dat was not found.
+2016-12-25 00:08:34:624: DumpPath: C:\Users\pablo\AppData\Local\Temp\<AppName>-1470776260.dmp
+2016-12-25 00:08:34:624: Looking for in-progress session...
+2016-12-25 00:08:34:624: MachineID: 769CE0D0-851A-400C-89B5-75C11341717D
+2016-12-25 00:08:34:624: InstallationID: CFB1A8E7-00C8-4DEE-B07A-832A15D00D32
+2016-12-25 00:08:34:624: Initializing user interface...
+2016-12-25 00:08:37:541: Checking registration state...
+2016-12-25 00:08:37:931: This version of AVG Driver Updater is unregistered.
+2016-12-25 00:08:39:912: Comparing driver data from last session...
+2016-12-25 00:08:41:160: Creating tray icon...
+2016-12-25 00:08:41:176: Survey check...
+2016-12-25 00:08:41:176: Not registered?
+2016-12-25 00:08:41:207: AppStartFromBootCount: 1
+2016-12-25 00:08:41:394: strVersionData: 2.2.2.0|2.0.4096.996
+2016-12-25 00:08:43:609: OnProcessEvent...missing track
+2016-12-25 00:08:48:118: OnProcessEvent...missing track
+2016-12-25 00:09:05:465: OnProcessEvent...missing track
+2016-12-25 00:09:11:876: OnProcessEvent...missing track
+2016-12-25 00:09:16:291: OnProcessEvent...missing track
+2016-12-25 00:09:17:368: OnProcessEvent...missing track
+2016-12-25 00:09:26:104: OnProcessEvent...missing track
+2016-12-25 00:09:37:070: OnProcessEvent...missing track
+2016-12-25 00:10:10:782: OnProcessEvent...missing track
+2016-12-25 00:10:10:782: OnProcessEvent...missing track
+2016-12-25 00:10:43:246: OnProcessEvent...missing track
+2016-12-25 00:12:43:647: OnProcessEvent...missing track
+2016-12-25 00:13:12:054: OnProcessEvent...missing track
+2016-12-25 00:13:29:448: OnProcessEvent...missing track
+2016-12-25 00:13:44:378: OnProcessEvent...missing track
+2016-12-25 00:13:50:197: OnProcessEvent...missing track
+2016-12-25 00:16:16:743: OnProcessEvent...missing track
+2016-12-25 00:16:33:014: OnProcessEvent...missing track
+2016-12-25 00:16:33:014: OnProcessEvent...missing track
+2016-12-25 00:16:42:265: OnProcessEvent...missing track
+2016-12-25 00:16:42:265: OnProcessEvent...missing track
+2016-12-25 00:16:43:731: OnProcessEvent...missing track
+2016-12-25 00:17:08:473: OnProcessEvent...missing track
+2016-12-25 00:17:26:070: OnProcessEvent...missing track
+2016-12-25 00:17:26:070: OnProcessEvent...missing track
+2016-12-25 00:17:27:224: OnProcessEvent...missing track
+2016-12-25 00:17:27:224: OnProcessEvent...missing track
+2016-12-25 00:17:52:777: OnProcessEvent...missing track
+2016-12-25 00:18:13:993: OnProcessEvent...missing track
+2016-12-25 00:18:13:993: OnProcessEvent...missing track
+2016-12-25 00:19:05:660: OnProcessEvent...missing track
+2016-12-25 00:20:41:429: OnProcessEvent...missing track
+2016-12-25 00:20:41:429: OnProcessEvent...missing track
+2016-12-25 00:21:43:673: OnProcessEvent...missing track
+2016-12-25 00:21:43:673: OnProcessEvent...missing track
+2016-12-25 00:32:53:725: OnProcessEvent...missing track
+2016-12-25 00:33:15:300: OnProcessEvent...missing track
+2016-12-25 00:34:05:298: OnProcessEvent...missing track
+2016-12-25 00:34:06:406: OnProcessEvent...missing track
+2016-12-25 00:39:56:078: OnProcessEvent...missing track
+2016-12-25 00:39:59:624: OnProcessEvent...missing track
+2016-12-25 00:39:59:655: Session Ending...  Preparing to shutdown.
+2016-12-25 00:39:59:655: Cancelling scanning...
+2016-12-25 00:39:59:655: Stopping session...
+2016-12-25 00:39:59:655: Saving session for restart.
+2016-12-25 00:40:00:029: Releasing singleton mutex.
+2016-12-25 00:40:00:029: Cleaning up engine storage.
+2016-12-25 00:40:00:029: Restoring Windows Automatic Update settings.
+2016-12-25 00:40:00:248: Closing pop-up windows...
+2016-12-25 00:40:00:248: Closing main window...
+2016-12-25 00:40:00:248: Done
